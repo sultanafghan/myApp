@@ -1,0 +1,16 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "title": "What is the beast Institute in Kabul afghanitan?",
+            "opstions": [
+                {
+                    "option 1 ": "Afghanistan",
+                    "option 2 ": "Muslim",
+                    "option 3 ": "Atarud"
+                }
+            ]
+        }
+    ]
+}
+
