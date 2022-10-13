@@ -1,32 +1,16 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "title": "What is the beast Institute in Kabul afghanitan?",
+            "opstions": [
+                {
+                    "option 1 ": "Afghanistan",
+                    "option 2 ": "Muslim",
+                    "option 3 ": "Atarud"
+                }
+            ]
+        }
+    ]
+}
 
-{
-"posts": [
-{
-"id": 1,
-"title": "Post 1 aa"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
-}
