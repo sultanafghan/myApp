@@ -2,15 +2,55 @@
     "Data": [
         {
             "id": 1,
-            "title": "What is the beast Institute in Kabul afghanitan?",
-            "opstions": [
+            "title": "what is your name ?",
+            "options": [
                 {
-                    "option 1 ": "Afghanistan",
-                    "option 2 ": "Muslim",
-                    "option 3 ": "Atarud"
+                    "id": 1,
+                    "title": "option 1",
+                    "vote": 20
+                },
+                {
+                    "id": 2,
+                    "title": "option 2",
+                    "vote": 50
+                },
+                {
+                    "id": 3,
+                    "title": "option 3",
+                    "vote": 100
+                },
+                {
+                    "id": 4,
+                    "title": "option 4",
+                    "vote": 79
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "what is your father name ?",
+            "options": [
+                {
+                    "id": 1,
+                    "title": "option 1",
+                    "vote": 20
+                },
+                {
+                    "id": 2,
+                    "title": "option 2",
+                    "vote": 50
+                },
+                {
+                    "id": 3,
+                    "title": "option 3",
+                    "vote": 100
+                },
+                {
+                    "id": 4,
+                    "title": "option 4",
+                    "vote": 79
                 }
             ]
         }
     ]
 }
-
